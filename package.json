@@ -1,1 +1,7 @@
-
+{
+  "name": "my-awesome-package",
+  "version": "1.0.0",
+  "dependencies": {
+    "gulp": "3.9.1"
+  }
+}
